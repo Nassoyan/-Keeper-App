@@ -8,10 +8,6 @@ function Header() {
       <h1>
         <HighlightIcon />
         Keeper
-        <Avatar
-          alt="Tigran"
-          src="https://i.pinimg.com/280x280_RS/da/bc/58/dabc58c3c5817afef363c83c29c8f6ee.jpg"
-        />
       </h1>
     </header>
   );
