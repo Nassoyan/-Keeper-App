@@ -101,3 +101,10 @@ form.create-note button {
   cursor: pointer;
   outline: none;
 }
+.avatar {
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+  color: #fff;
+  gap: 3px;
+}
